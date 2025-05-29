@@ -45,10 +45,10 @@ This project features two deep learning models, trained and evaluated on the `ha
 #### Visualizations
 Explore the models' performance through these key visualizations:
 - **Test Accuracy Comparison**:  
-  ![Test Accuracy Comparison](TweetClassification/images/download(1).png)  
+  ![Test Accuracy Comparison](images/download(1).png)  
   *A bar chart comparing test accuracy across Simple RNN (0.90), LSTM Trainable (0.88), and LSTM GloVe (0.91).*
 - **Training and Validation Accuracy**:  
-  ![Training and Validation Accuracy](images/dowwnload.png)  
+  ![Training and Validation Accuracy](images/download.png)  
   *A line graph showing accuracy trends over epochs for all models, highlighting LSTM GloVe's peak at 0.91.*
 - **Training and Validation Loss**:  
   ![Training and Validation Loss](images/Screenshot2025-05-29120149.png)  

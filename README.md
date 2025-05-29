@@ -51,7 +51,7 @@ Explore the models' performance through these key visualizations:
   ![Training and Validation Accuracy](images/download.png)  
   *A line graph showing accuracy trends over epochs for all models, highlighting LSTM GloVe's peak at 0.91.*
 - **Training and Validation Loss**:  
-  ![Training and Validation Loss](images/Screenshot2025-05-29120149.png)  
+  ![Training and Validation Loss](images/Screenshot2025-05-2920149.png)  
   *A line graph depicting loss reduction, with LSTM GloVe stabilizing at a low 0.33.*
 
 ---
